@@ -4,7 +4,7 @@ An automated real-time sound monitoring dashboard built on Streamlit using Googl
 
 ## Project Workspace Structure
 ```text
-your_project/
+sound-guard/
 │
 ├── app.py                  # Streamlit application core script
 ├── sound_events.db         # Self-initializing SQLite history tracking ledger
